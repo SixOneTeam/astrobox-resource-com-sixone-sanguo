@@ -1,0 +1,73 @@
+{
+  "item": {
+    "id": "com.sixone.sanguo",
+    "restype": "quick_app",
+    "name": "腕上三国",
+    "description": "手环上的腕上三国，来啦！",
+    "preview": [
+      "media/已粘贴 2026-10-10 下午10.08.15.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/已粘贴 2026-10-10 下午10.08.15.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "2.0.1",
+      "file_name": "downloads/环9P-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb9": {
+      "version": "2.0.1",
+      "file_name": "downloads/环9-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "2.0.1",
+      "file_name": "downloads/环11-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "2.0.1",
+      "file_name": "downloads/环11-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb10": {
+      "version": "2.0.1",
+      "file_name": "downloads/环10-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb10nfc": {
+      "version": "2.0.1",
+      "file_name": "downloads/环10-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb10p": {
+      "version": "2.0.1",
+      "file_name": "downloads/环10P-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmrw5": {
+      "version": "2.0.1",
+      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmrw5xring": {
+      "version": "2.0.1",
+      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    },
+    "xmrw6": {
+      "version": "2.0.1",
+      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
+      "versionCode": 2
+    }
+  },
+  "ext": {}
+}

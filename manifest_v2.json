@@ -5,7 +5,10 @@
     "name": "腕上三国",
     "description": "手环上的腕上三国，来啦！",
     "preview": [
-      "media/腕上三国@2x.png"
+      "media/腕上三国@2x.png",
+      "media/空容器@2x-2.png",
+      "media/空容器@2x.png",
+      "media/容器 605@2x.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/腕上三国@2x.png",

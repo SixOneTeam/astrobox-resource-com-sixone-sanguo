@@ -5,10 +5,10 @@
     "name": "腕上三国",
     "description": "手环上的腕上三国，来啦！",
     "preview": [
-      "media/已粘贴 2026-10-10 下午10.08.15.png"
+      "media/腕上三国@2x.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/已粘贴 2026-10-10 下午10.08.15.png",
+    "cover": "media/腕上三国@2x.png",
     "author": [
       {
         "name": "sixoneteam",
@@ -16,56 +16,62 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "腕上三国密钥购买链接",
+      "url": "https://afdian.com/item/90dc3b84bd3711f0beed5254001e7c00?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    }
+  ],
   "downloads": {
-    "xmb9p": {
-      "version": "2.0.1",
-      "file_name": "downloads/环9P-腕上三国-v2.0.1.bin",
-      "versionCode": 2
-    },
-    "xmb9": {
-      "version": "2.0.1",
-      "file_name": "downloads/环9-腕上三国-v2.0.1.bin",
-      "versionCode": 2
-    },
-    "xmb11": {
-      "version": "2.0.1",
-      "file_name": "downloads/环11-腕上三国-v2.0.1.bin",
-      "versionCode": 2
-    },
-    "xmb11nfc": {
-      "version": "2.0.1",
-      "file_name": "downloads/环11-腕上三国-v2.0.1.bin",
-      "versionCode": 2
-    },
     "xmb10": {
       "version": "2.0.1",
-      "file_name": "downloads/环10-腕上三国-v2.0.1.bin",
+      "file_name": "downloads/B10腕上三国2.0.1.rpk",
       "versionCode": 2
     },
     "xmb10nfc": {
       "version": "2.0.1",
-      "file_name": "downloads/环10-腕上三国-v2.0.1.bin",
+      "file_name": "downloads/B10腕上三国2.0.1.rpk",
       "versionCode": 2
     },
     "xmb10p": {
       "version": "2.0.1",
-      "file_name": "downloads/环10P-腕上三国-v2.0.1.bin",
+      "file_name": "downloads/B10P腕上三国2.0.1.rpk",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "2.0.1",
+      "file_name": "downloads/B11-腕上三国-v2.0.1.rpk",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "2.0.1",
+      "file_name": "downloads/B11-腕上三国-v2.0.1.rpk",
+      "versionCode": 2
+    },
+    "xmb9": {
+      "version": "2.0.1",
+      "file_name": "downloads/B9腕上三国2.0.1.rpk",
+      "versionCode": 2
+    },
+    "xmb9p": {
+      "version": "2.0.1",
+      "file_name": "downloads/B9P腕上三国2.0.1.rpk",
       "versionCode": 2
     },
     "xmrw5": {
       "version": "2.0.1",
-      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
-      "versionCode": 2
-    },
-    "xmrw5xring": {
-      "version": "2.0.1",
-      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
+      "file_name": "downloads/RW56腕上三国2.0.1.rpk",
       "versionCode": 2
     },
     "xmrw6": {
       "version": "2.0.1",
-      "file_name": "downloads/RW5-腕上三国-v2.0.1.bin",
+      "file_name": "downloads/RW56腕上三国2.0.1.rpk",
+      "versionCode": 2
+    },
+    "xmrw5xring": {
+      "version": "2.0.1",
+      "file_name": "downloads/RW56腕上三国2.0.1.rpk",
       "versionCode": 2
     }
   },
